@@ -48,7 +48,7 @@ function updateAmPmColor() {
 
 function rotateClock() {
     const clockContainer = document.getElementById('clock-container');
-    clockContainer.style.transform = 'rotate(360deg) scale(2.7)';
+    clockContainer.style.transform = 'rotate(360deg) scale(2)';
     setTimeout(() => {
         clockContainer.style.transform = 'rotate(0deg) scale(1)';
     }, 5000);
