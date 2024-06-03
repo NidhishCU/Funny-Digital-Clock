@@ -1,4 +1,4 @@
-# Funny Digital Clock
+# Funny Digital Clock [Live](https://nidhishcu.github.io/Funny-Digital-Clock/)
 
 This project is a funny digital clock with unique features:
 - If the hour, minute, and second are even, the colors change.
