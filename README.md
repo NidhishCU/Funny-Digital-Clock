@@ -14,7 +14,7 @@ This project is a funny digital clock with unique features:
 
 ## Demo
 
-![Funny Digital Clock Demo](![image](![ssssss](https://github.com/NidhishCU/Funny-Digital-Clock/assets/98959174/c5d3980e-1ded-449d-9ee8-2eed0f96f093)
+![Funny Digital Clock Demo](https://github.com/NidhishCU/Funny-Digital-Clock/assets/98959174/c5d3980e-1ded-449d-9ee8-2eed0f96f093)
 )
 )
 
